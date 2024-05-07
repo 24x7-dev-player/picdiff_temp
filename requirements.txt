@@ -1,0 +1,7 @@
+ensure
+opencv-python 
+numpy 
+pillow 
+scikit-image 
+
+-e .
